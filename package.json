@@ -1,0 +1,29 @@
+{
+  "name": "getscript-promise",
+  "version": "0.0.0",
+  "description": "Load and exectue a JavaScript file and return a promise.  For use in client JavaScript code.",
+  "main": "getscript.js",
+  "files": [
+    "getscript.js",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magicgrl111/getscript-promise.git"
+  },
+  "keywords": [
+    "getscript",
+    "get",
+    "script",
+    "promise"
+  ],
+  "author": {
+    "name": "Selby Walker",
+    "email": "selby.e.walker@gmail.com",
+    "url": "http://selbywalker.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicgrl111/getscript-promise/issues"
+  }
+}
