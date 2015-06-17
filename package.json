@@ -1,6 +1,6 @@
 {
   "name": "getscript-promise",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Load and exectue a JavaScript file and return a promise.  For use in client JavaScript code.",
   "main": "getscript.js",
   "files": [
